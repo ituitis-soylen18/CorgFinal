@@ -2881,7 +2881,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="label" val="In7"/>
     </comp>
     <comp lib="6" loc="(1009,833)" name="Text">
-      <a name="text" val="inc dec "/>
+      <a name="text" val="for Z-flag"/>
     </comp>
     <comp lib="0" loc="(1690,1770)" name="Tunnel">
       <a name="facing" val="south"/>
